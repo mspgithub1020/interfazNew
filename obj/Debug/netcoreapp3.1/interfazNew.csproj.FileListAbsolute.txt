@@ -1,0 +1,11 @@
+C:\curso\interfazNew\bin\Debug\netcoreapp3.1\interfazNew.exe
+C:\curso\interfazNew\bin\Debug\netcoreapp3.1\interfazNew.deps.json
+C:\curso\interfazNew\bin\Debug\netcoreapp3.1\interfazNew.runtimeconfig.json
+C:\curso\interfazNew\bin\Debug\netcoreapp3.1\interfazNew.runtimeconfig.dev.json
+C:\curso\interfazNew\bin\Debug\netcoreapp3.1\interfazNew.dll
+C:\curso\interfazNew\bin\Debug\netcoreapp3.1\interfazNew.pdb
+C:\curso\interfazNew\obj\Debug\netcoreapp3.1\interfazNew.csprojAssemblyReference.cache
+C:\curso\interfazNew\obj\Debug\netcoreapp3.1\interfazNew.AssemblyInfoInputs.cache
+C:\curso\interfazNew\obj\Debug\netcoreapp3.1\interfazNew.AssemblyInfo.cs
+C:\curso\interfazNew\obj\Debug\netcoreapp3.1\interfazNew.dll
+C:\curso\interfazNew\obj\Debug\netcoreapp3.1\interfazNew.pdb
